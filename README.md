@@ -13,8 +13,6 @@ O jogo utiliza uma mecânica de *arcade* com pontuação por acertos e um sistem
 
 ## Como Executar o Projeto
 
-Este projeto foi desenvolvido em Java e provavelmente utiliza um ambiente de desenvolvimento integrado (IDE) como o Eclipse (indicado pelos arquivos `.project` e `.classpath` originais).
-
 ### Pré-requisitos
 
 *   **Java Development Kit (JDK):** Versão 8 ou superior.
