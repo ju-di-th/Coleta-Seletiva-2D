@@ -24,7 +24,7 @@ Este projeto foi desenvolvido em Java e provavelmente utiliza um ambiente de des
 
 1.  **Clone ou Baixe o Projeto:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/ju-di-th/Coleta-Seletiva-2D.git
     ```
     *Ou* descompacte o arquivo.
 
@@ -34,12 +34,12 @@ Este projeto foi desenvolvido em Java e provavelmente utiliza um ambiente de des
     *   Selecione a pasta raiz do projeto.
 
 3.  **Execute a Classe Principal:**
-    *   Localize a classe `main.Main.java`.
+    *   Localize a classe `Main.java`.
     *   Execute o arquivo como um aplicativo Java.
 
 O jogo será iniciado em uma nova janela.
 
-## 🎮 Mecânica do Jogo
+## Mecânica do Jogo
 
 | Tipo de Resíduo | Código no Jogo | Cor da Lixeira (Padrão) |
 | :--- | :--- | :--- |
