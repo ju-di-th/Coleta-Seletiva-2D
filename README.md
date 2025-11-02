@@ -12,7 +12,6 @@ O jogo utiliza uma mecânica de *arcade* com pontuação por acertos e um sistem
 *   **Framework/Biblioteca:** Swing e AWT (para a interface gráfica e *game loop*)
 
 ## Como Executar o Projeto
-
 ### Pré-requisitos
 
 *   **Java Development Kit (JDK):** Versão 8 ou superior.
